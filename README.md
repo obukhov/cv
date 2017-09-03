@@ -14,7 +14,7 @@ I’m a person who is inspired by companies and products like  Airbnb, Uber, Sla
 
 I am interested in modern and growing companies that develop innovative products with a modern tool chain. Interested in senior software engineering positions, working on architecture, team leadership, and high-loaded projects.
 
-More 10 years I’m learning and using technologies and methodologies of building durable fail-safe information systems with high quality of code that could be maintained and elaborated with minimal costs. I also feel very enthusiastic about building comfortable and efficient working environment and happy teams.
+More 10 years I’m learning and using technologies and methodologies of building durable fail-safe software with high quality of code that could be maintained and elaborated with minimal costs. I also feel very enthusiastic about building comfortable and efficient working environment and happy teams.
 
 ## Skills
 I have a strong knowledge of **PHP**, **MySql**, **Redis**, **Amazon AWS (EC2, S3, CloudFront, ECS)** and practical experience at **Symfony framework 1/2**, **Silex framework**, **Zend Framework**, **PHPUnit**, **Composer**, **RabbitMQ**, **Docker**, **CoreOs**, **Fleet** understanding of principles of building **scalable** and **high loaded solutions**. I’m well versed in **design patterns**, **domain-driven design**, **SOLID principles**, coding **best practices** and creating development environment both of setting up development tools like **CI/CD** and managing **agile processes**.
