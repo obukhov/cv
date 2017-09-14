@@ -17,7 +17,13 @@ I am interested in modern and growing companies that develop innovative products
 More 10 years I’m learning and using technologies and methodologies of building durable fail-safe software with high quality of code that could be maintained and elaborated with minimal costs. I also feel very enthusiastic about building comfortable and efficient working environment and happy teams.
 
 ## Skills
-I have a strong knowledge of **PHP**, **MySql**, **Redis**, **Amazon AWS (EC2, S3, CloudFront, ECS)** and practical experience at **Symfony framework 1/2**, **Silex framework**, **Zend Framework**, **PHPUnit**, **Composer**, **RabbitMQ**, **Docker**, **CoreOs**, **Fleet** understanding of principles of building **scalable** and **high loaded solutions**. I’m well versed in **design patterns**, **domain-driven design**, **SOLID principles**, coding **best practices** and creating development environment both of setting up development tools like **CI/CD** and managing **agile processes**.
+I have a strong knowledge of **PHP**, **Golang**, **MySql**, **Redis**, **Amazon AWS (EC2, S3, CloudFront, ECS)** and practical experience at  **Symfony framework 1/2**, **Silex framework**, **Zend Framework**, **PHPUnit**, **Composer**, **RabbitMQ**, **Docker**, **CoreOs**, **Fleet** understanding of principles of building **scalable** and **high loaded solutions**. I’m well versed in **design patterns**, **domain-driven design**, **SOLID principles**, coding **best practices** and creating development environment both of setting up development tools like **CI/CD** and managing **agile processes**.
+
+## Golang code
+Some examples of golang code, written by me:
+- https://github.com/obukhov/football-players-info
+- https://github.com/obukhov/smart-alarm
+- https://github.com/cidery/cider (project is in progress)
 
 ## Links
 - https://github.com/obukhov
@@ -55,7 +61,7 @@ http://rocket-labs.com/
 Rocket Labs - Rocket Internet-backed venture, developing e-commerce marketplace solution for 2,6M sellers in 87 countries. One of the ventures who used our platform was recently acquired by Alibaba group for $800M.
 
 ### Technologies:
-PHP, MySql, Redis, Zend Framework, AWS (ECS, S3), Go language, Docker, Consul, Fleet, Coreos.
+PHP, MySql, Redis, Zend Framework, AWS (ECS, S3), Golang, Docker, Consul, Fleet, Coreos.
 
 ### Role and skills:
 Working with an international team of 5-8 people on a codebase maintained by more than 50 developers.
