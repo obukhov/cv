@@ -2,7 +2,7 @@ Aleksandr Obukhov
 =================
 In this CV you can find:
 - [overview of my working priorities](#summary) and [skills](#skills),
-- [my work experiance](#work-experience) and [education](#education),
+- [my work experience](#work-experience) and [education](#education),
 - [my social profiles](#links).
 
 ## Contacts
