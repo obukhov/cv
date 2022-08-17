@@ -7,33 +7,52 @@ In this CV you can find:
 
 ## Contacts
 - Email: [a.a.obukhov@gmail.com](mailto:a.a.obukhov@gmail.com)
-- Skype: `a.a.obukhov`
+- LinkedIn: https://www.linkedin.com/in/aleksobukhov
+- Twitter (DM is open): https://twitter.com/dclg_en
 
 ## Summary
-I’m a person who is inspired by companies and products like  Airbnb, Uber, Slack, etc. and the way they change society and people lives. I enjoy taking part in projects that can really make the difference.
+My name is Aleksandr, and I am an engineer and technology enthusiast currently based in Berlin. My passion is to build products and make people’s lives easier using technology.
 
-I am interested in modern and growing companies that develop innovative products with a modern tool chain. Interested in senior software engineering positions, working on architecture, team leadership, and high-loaded projects.
+In my professional career lasting more than 15 years, I’ve been acting in various roles. I started as an individual contributor getting deep knowledge of web applications tech stack and engineering best practices. In the lead developer role, I fostered best practices in an engineering organization and defined the system architecture and engineering strategy. As an engineering manager, I focus on building autonomous teams that deliver impactful features in rapid iterations. In those teams, I facilitate building healthy engineering culture and fostering the personal success of the team members. I also work on building the team’s roadmap, ensuring alignment with initiatives’ stakeholders, and managing cross-team dependencies. I work on several public open-source and pet projects to stay up to date with technology.
 
-More 10 years I’m learning and using technologies and methodologies of building durable fail-safe software with high quality of code that could be maintained and elaborated with minimal costs. I also feel very enthusiastic about building comfortable and efficient working environment and happy teams.
+I am interested in engineering leadership roles in modern and growing companies that develop innovative products with a modern toolchain.
 
 ## Skills
-I have a strong knowledge of **PHP**, **Golang**, **MySql**, **Redis**, **Amazon AWS (EC2, S3, CloudFront, ECS)** and practical experience at  **Symfony framework 1/2**, **Silex framework**, **Zend Framework**, **PHPUnit**, **Composer**, **RabbitMQ**, **Docker**, **CoreOs**, **Fleet** understanding of principles of building **scalable** and **high loaded solutions**. I’m well versed in **design patterns**, **domain-driven design**, **SOLID principles**, coding **best practices** and creating development environment both of setting up development tools like **CI/CD** and managing **agile processes**.
+I have a strong knowledge of **PHP**, **Golang**, **MySql**, **Redis**, **kafka**, **AWS**, **Kubernetes**, **helm** understanding of principles of building **scalable** and **high loaded solutions**. I’m well versed in **design patterns**, **domain-driven design**, **SOLID principles**, coding **best practices** and creating development environment both of setting up development tools like **CI/CD** and managing **agile processes**.
 
-## Golang code
-Some examples of golang code, written by me:
-- https://github.com/obukhov/football-players-info
-- https://github.com/obukhov/smart-alarm
-- https://github.com/cidery/cider (project is in progress)
-
-## Links
-- https://github.com/obukhov
-- https://www.linkedin.com/profile/view?id=95086785
-- https://www.xing.com/profile/Aleksandr_Obukhov
+## Open source projects:
+- [Redis inventory](https://github.com/obukhov/redis-inventory) [Analyzing memory usage in Redis by key patterns @Medium](https://medium.com/geekculture/analyzing-memory-usage-in-redis-by-key-patterns-e36420a2c225)
+- [Redis migrate](https://github.com/obukhov/go-redis-migrate) [Copy 1 Million Redis Keys in 2 Minutes with Golang @Medium](https://medium.com/amboss/copy-redis-keys-in-minutes-with-golang-3c06f3cd3af8)
 
 ## Education
 **2003 - 2009** Bauman Moscow State University, Department of informatics and control systems (IU). Speciality: Computer Systems, Complexes and Networks (IU-6). Engineer degree.
 
 ## Work experience
+
+### Amboss GmbH
+https://www.amboss.com/
+
+### Company
+
+AMBOSS is a medical technology company with offices in New York, Berlin, Cologne and Cagliari. Its knowledge platform has fundamentally changed the way medical know-how is acquired and utilized at the point of care. Students use the interactive library and high-yield question bank for general study and exam preparation, while clinicians rely on AMBOSS to make effective clinical decisions guided by evidence-based recommendations.
+
+### Roles and responsibilities 
+
+#### Oct 2017 - Apr 2020 Lead Backend Engineer
+
+After joining the company, my main priorities were: the agile transformation of the engineering department, introducing backend development best practices, and architecture strategy. Personal mentoring and people management for a backend team of up to 14 members, hiring new engineers.
+
+#### Apr 2020 - Present Engineering manager of Core Services team
+
+With the company's growth and the increased number of teams, I transitioned to the engineering manager role of one of the teams. The core services team is responsible for introducing components enabling other teams' autonomy and platform scalability. My responsibilities are facilitating technical excellence, guaranteeing impactful and rapid iterative delivery, defining staffing needs, and hiring new engineers. Support existing team members in career development and perform yearly calibration and quarterly feedback rounds. Work on the roadmap and drive alignment with stakeholders and other teams within and outside the engineering department. As a member of the EMs team: hire new engineering managers, and identify and resolve challenges within the engineering organization.
+
+### Technologies:
+Golang, PHP, MySql, Postgres, Kafka, Redis, k8s, AWS (EC2, S3).
+
+### Projects:
+ - Dockerisation of local development environemnt, transition to Kubernetes, introducing GraphQL API.
+ - Introduced components such as GraphQL Gateway, SSO service, participated development of the engineering strategy.
+
 ## *Lykon: Lead Backend Engineer*
 https://www.lykon.de/
 
@@ -53,7 +72,7 @@ Working on curated recommendation engine in close interaction with the science t
  - Developing project of optimization of interaction and decoupling from external content management system.
 
 ## *Rocket Labs: Senior Software Engineer*
-http://rocket-labs.com/
+https://www.rocket-internet.com/
 
 *December 2015 – April 2017*
 
