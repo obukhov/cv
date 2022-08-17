@@ -15,7 +15,7 @@ I am interested in engineering leadership roles in modern and growing companies 
 
 ## Technical background
 
-I have a strong knowledge of **PHP**, **Golang**, **MySql**, **Redis**, **kafka**, **AWS**, **Kubernetes**, **helm** understanding of principles of building **scalable** and **high loaded solutions**. I’m well versed in **design patterns**, **domain-driven design**, **SOLID principles**, coding **best practices** and creating development environment both of setting up development tools like **CI/CD** and managing **agile processes**.
+I have a strong knowledge of **Golang**, **PHP**, **MySql**, **Redis**, **kafka**, **AWS**, **Kubernetes**, **helm** understanding of principles of building **scalable** and **high loaded solutions**. I’m well versed in **design patterns**, **domain-driven design**, **SOLID principles**, coding **best practices** and creating development environment both of setting up development tools like **CI/CD** and managing **agile processes**.
 
 ## Open source projects:
 - [https://github.com/obukhov/redis-inventory](https://github.com/obukhov/redis-inventory) ([Analyzing memory usage in Redis by key patterns @Medium](https://medium.com/geekculture/analyzing-memory-usage-in-redis-by-key-patterns-e36420a2c225))
