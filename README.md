@@ -18,8 +18,8 @@ I am interested in engineering leadership roles in modern and growing companies 
 I have a strong knowledge of **Golang**, **PHP**, **MySql**, **Redis**, **kafka**, **AWS**, **Kubernetes**, **helm** understanding of principles of building **scalable** and **high loaded solutions**. I’m well versed in **design patterns**, **domain-driven design**, **SOLID principles**, coding **best practices** and creating development environment both of setting up development tools like **CI/CD** and managing **agile processes**.
 
 ## Open source projects:
-- [https://github.com/obukhov/redis-inventory](https://github.com/obukhov/redis-inventory) ([Analyzing memory usage in Redis by key patterns @Medium](https://medium.com/geekculture/analyzing-memory-usage-in-redis-by-key-patterns-e36420a2c225))
-- [https://github.com/obukhov/go-redis-migrate](https://github.com/obukhov/go-redis-migrate) ([Copy 1 Million Redis Keys in 2 Minutes with Golang @Medium](https://medium.com/amboss/copy-redis-keys-in-minutes-with-golang-3c06f3cd3af8))
+- [https://github.com/obukhov/redis-inventory](https://github.com/obukhov/redis-inventory) ([Medium post](https://medium.com/geekculture/analyzing-memory-usage-in-redis-by-key-patterns-e36420a2c225))
+- [https://github.com/obukhov/go-redis-migrate](https://github.com/obukhov/go-redis-migrate) ([Medium post](https://medium.com/amboss/copy-redis-keys-in-minutes-with-golang-3c06f3cd3af8))
 
 
 ## Education
