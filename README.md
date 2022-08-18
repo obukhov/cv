@@ -37,9 +37,11 @@ AMBOSS is a medical technology company with offices in New York, Berlin, Cologne
 ### Roles and responsibilities 
 
 #### Oct 2017 - Apr 2020 Lead Backend Engineer
+
 After joining the company, my main priorities were: the agile transformation of the engineering department, introducing backend development best practices, and architecture strategy. Personal mentoring and people management for a backend team of up to 14 members, hiring new engineers.
 
 #### Apr 2020 - Present Engineering manager of Core Services team
+
 With the company's growth and the increased number of teams, I transitioned to the engineering manager role of one of the teams. The core services team is responsible for introducing components enabling other teams' autonomy and platform scalability. My responsibilities are facilitating technical excellence, guaranteeing impactful and rapid iterative delivery, defining staffing needs, and hiring new engineers. Support existing team members in career development and perform yearly calibration and quarterly feedback rounds. Work on the roadmap and drive alignment with stakeholders and other teams within and outside the engineering department. As a member of the EMs team: hire new engineering managers, and identify and resolve challenges within the engineering organization.
 
 ### Projects:
