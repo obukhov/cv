@@ -1,5 +1,6 @@
 Aleksandr Obukhov
 =================
+(Senior) Engineering Manager
 
 ## Contacts
 - Email: [a.a.obukhov@gmail.com](mailto:a.a.obukhov@gmail.com)
@@ -11,7 +12,7 @@ My name is Aleks, and I am an engineer and technology enthusiast currently based
 
 In my professional career lasting more than 15 years, I’ve been acting in various roles. I started as an individual contributor getting deep knowledge of web applications tech stack and engineering best practices. In the lead developer role, I fostered best practices in an engineering organization and defined the system architecture and engineering strategy. As an engineering manager, I focus on building autonomous teams that deliver impactful features in rapid iterations. In those teams, I facilitate building healthy engineering culture and fostering the personal success of the team members. I also work on building the team’s roadmap, ensuring alignment with initiatives’ stakeholders, and managing cross-team dependencies. I work on several public open-source and pet projects to stay up to date with technology.
 
-I am interested in engineering leadership roles in modern and growing companies that develop innovative products with a modern toolchain.
+I am interested in engineering leadership roles in modern and growing companies that develop innovative products with a modern tech stack.
 
 ## Technical background
 
